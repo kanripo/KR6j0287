@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 如意輪陀羅尼經
+#+DATE: 2015-08-30 20:29:23.837170
+#+PROPERTY: JUAN 0
